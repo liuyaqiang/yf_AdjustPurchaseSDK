@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "yf_AdjustPurchaseSDK"
-s.version          = "1.1.0"
+s.version          = "1.0.0"
 s.summary          = "yf_AdjustPurchaseSDK"
 
 s.description      = <<-DESC
